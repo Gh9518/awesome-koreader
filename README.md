@@ -259,6 +259,10 @@ server and more. ⭐ 3,6K+
 - [omer-faruq/koreader-user-patches](https://github.com/omer-faruq/koreader-user-patches) - Various user patches from the creator of appstore.koplugin.
 - [zenixlabs/koreader-frankenpatches-public](https://github.com/zenixlabs/koreader-frankenpatches-public) - A collection of reading progress patches.
 
+### Standalone Patches
+
+- [Gh9518/koreader-adaptive-autoturn](https://github.com/Gh9518/koreader-adaptive-autoturn) - Learns your reading pace from manual page turns and sets the AutoTurn interval automatically, as a single-file patch that writes no data files and ships bilingual (EN / 简体中文) docs.
+
 ### Official Example Patches
 
 These are documented on the [User Patches Wiki](https://github.com/koreader/koreader/wiki/User-patches):
